@@ -1,0 +1,3 @@
+"0","#Mengambil Label"
+"0","kinsurance_train_target<-insurance1[index_train,8]"
+"0","kinsurance_test_target<-insurance1[-index_train, 8]"

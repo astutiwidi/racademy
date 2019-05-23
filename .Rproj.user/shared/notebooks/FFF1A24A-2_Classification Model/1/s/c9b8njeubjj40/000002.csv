@@ -1,0 +1,3 @@
+"0","#Visualisasi Model"
+"0","par(mfrow=c(2,4))"
+"0","plot(nb)"

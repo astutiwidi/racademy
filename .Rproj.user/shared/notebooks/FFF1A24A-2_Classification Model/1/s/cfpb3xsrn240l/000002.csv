@@ -1,0 +1,7 @@
+"0","#Menghitung Nilai Precision"
+"0","prec <- TP / (TP + FP)"
+"0","prec"
+"1","[1]"
+"1"," 0.9190751"
+"1","
+"

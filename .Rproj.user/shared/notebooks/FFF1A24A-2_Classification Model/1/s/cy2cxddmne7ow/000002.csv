@@ -1,0 +1,2 @@
+"0","#Mengubah Data Ke Tipe Numerik"
+"0","insurance1 <- insurance %>% mutate_if(is.factor, as.numeric)"

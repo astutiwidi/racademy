@@ -1,0 +1,2 @@
+"0","#Melakukan Normalisasi"
+"0","kinsurance_n<-as.data.frame(lapply(insurance1[,c(1:7)],normalize))"

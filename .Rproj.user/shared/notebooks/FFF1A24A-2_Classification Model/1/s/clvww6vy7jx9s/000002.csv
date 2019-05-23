@@ -1,0 +1,4 @@
+"0","TPn <- confnb[1, 1] "
+"0","FNn <- confnb[1, 2] "
+"0","FPn <- confnb[2, 1] "
+"0","TNn <- confnb[2, 2] "

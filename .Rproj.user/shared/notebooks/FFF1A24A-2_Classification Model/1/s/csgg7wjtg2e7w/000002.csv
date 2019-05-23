@@ -1,0 +1,4 @@
+"0","#Membangi Data Ke Training dan Testing (70:30)"
+"0","index_train <- sample(1:nrow(insurance), 0.7 * nrow(insurance))"
+"0","train <- insurance[index_train, ]"
+"0","test <- insurance[-index_train, ]"

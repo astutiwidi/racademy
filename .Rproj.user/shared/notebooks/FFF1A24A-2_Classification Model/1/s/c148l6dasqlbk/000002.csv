@@ -1,0 +1,4 @@
+"0","TPk <- confknn[1, 1] "
+"0","FNk <- confknn[1, 2] "
+"0","FPk <- confknn[2, 1] "
+"0","TNk <- confknn[2, 2]"

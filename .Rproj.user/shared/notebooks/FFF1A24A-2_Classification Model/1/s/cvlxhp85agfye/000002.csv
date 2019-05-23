@@ -1,0 +1,7 @@
+"0","#Menghitung Nilai Precision"
+"0","precnb <- TPn / (TPn + FPn)"
+"0","precnb"
+"1","[1]"
+"1"," 0.7311828"
+"1","
+"

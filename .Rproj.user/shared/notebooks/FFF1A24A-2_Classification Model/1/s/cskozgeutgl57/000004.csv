@@ -1,0 +1,2 @@
+"0","#Membuat KNN-Model dengan Nilai K=2"
+"0","knnmodel <-knn(train=kinsurance_train,test=kinsurance_test,cl=kinsurance_train_target,k=2)"

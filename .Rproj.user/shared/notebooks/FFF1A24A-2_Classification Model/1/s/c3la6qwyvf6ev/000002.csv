@@ -1,0 +1,7 @@
+"0","#Menghitung Nilai Recall"
+"0","recnb <- TPn / (TPn + FNn)"
+"0","recnb"
+"1","[1]"
+"1"," 0.8143713"
+"1","
+"

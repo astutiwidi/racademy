@@ -1,0 +1,4 @@
+"0","#Membagi ke Data Train dan Data Testing"
+"0","index_train <- sample(1:nrow(kinsurance_n), 0.7 * nrow(kinsurance_n))"
+"0","kinsurance_train <- kinsurance_n[index_train, ]"
+"0","kinsurance_test <- kinsurance_n[-index_train, ]"

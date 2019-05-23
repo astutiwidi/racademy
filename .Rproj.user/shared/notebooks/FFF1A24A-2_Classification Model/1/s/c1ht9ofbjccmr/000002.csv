@@ -1,0 +1,5 @@
+"0","#Membuat fungsi Normalisasi"
+"0","normalize<-function(x){"
+"0","  temp<-(x-min(x))/(max(x)-min(x))"
+"0","  return(temp)"
+"0","}"

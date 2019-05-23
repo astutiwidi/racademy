@@ -1,0 +1,2 @@
+"0","#Melakukan prediksi dengan data testing"
+"0","pred_nb <- predict(nb, as.data.frame(test))"

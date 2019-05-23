@@ -1,0 +1,7 @@
+"0","#Melihat Nilai Akurasi K-NN"
+"0","acck <- (TPk + TNk)/(TPk + FNk + FPk + TNk)"
+"0","acck"
+"1","[1]"
+"1"," 0.8333333"
+"1","
+"

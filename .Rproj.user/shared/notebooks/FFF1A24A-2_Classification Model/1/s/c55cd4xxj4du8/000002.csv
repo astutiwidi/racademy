@@ -1,0 +1,8 @@
+"0","#Menghitung Nilai Akurasi"
+"0","acc <- (TP + TN)/(TP + FN + FP + TN)"
+"0","accdt <- acc"
+"0","acc"
+"1","[1]"
+"1"," 0.9402985"
+"1","
+"

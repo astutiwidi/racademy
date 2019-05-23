@@ -1,0 +1,2 @@
+"0","#Membuat Model Decison Tree Untuk Mengklasifikasi Apakah Seseorang akan klaim Asuransi atau tidak. "
+"0","tree <- rpart(Claim ~., train, method = ""class"")"

@@ -1,0 +1,7 @@
+"0","#Menghitung Nilai Akurasi"
+"0","accnb <- (TPn + TNn)/(TPn + FNn + FPn + TNn)"
+"0","accnb"
+"1","[1]"
+"1"," 0.7985075"
+"1","
+"

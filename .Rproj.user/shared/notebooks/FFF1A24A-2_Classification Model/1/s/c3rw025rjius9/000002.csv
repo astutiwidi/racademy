@@ -1,0 +1,2 @@
+"0","#Menggunakan Untuk Melakukan Prediksi Pada Data Testing"
+"0","prediction <- predict(tree, test, type = ""class"")"

@@ -1,0 +1,7 @@
+"0","#Melihat Nilai Precision K-NN"
+"0","preck <- TPk / (TPk + FPk)"
+"0","preck"
+"1","[1]"
+"1"," 0.7891156"
+"1","
+"
