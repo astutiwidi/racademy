@@ -1,7 +1,0 @@
-"0","#Visualisasi ScatterPlots menggunakan ggplot2"
-"0","dfnorm %>%"
-"0","  as_tibble() %>%"
-"0","  mutate(cluster = k2$cluster,"
-"0","         state = row.names(USArrests)) %>%"
-"0","  ggplot(aes(UrbanPop, Murder, color = factor(cluster), label = state)) +"
-"0","  geom_text()"
